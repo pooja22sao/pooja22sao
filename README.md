@@ -19,7 +19,7 @@ Community Manager <a href="https://gdgcnagpur.tech/team">Google Developer Groups
 Hoddy :
 Collecting coins had become my hobby just because I loved those unique-looking coins.  >> <a href='https://instagram.com/coincollectionbook' >click</a>
 
-<table>
+<!--<table>
 <tr>
  <th>
  <h3>Courses 2023</h3>
@@ -54,13 +54,13 @@ Collecting coins had become my hobby just because I loved those unique-looking c
  
  
  
- <!--
+
 <h3>Courses 2022</h3>
 <a href="https://youtube.com/playlist?list=PLuzT-U16VgbthU06HkjXkcSK3_3GTfHtC">Python 3 PROGRAMMING WITH PROJECT MASTERCLASS</a></br>
 <a href="https://youtu.be/D-z2KLrKTME">C PROGRAMMING WITH PROJECT MASTERCLASS</a></br>
 <a href="https://youtube.com/playlist?list=PLuzT-U16VgbtzHYXHZJphKwPlRf4M12lV">JAVA PROGRAMMING WITH PROJECT MASTERCLASS</a></br>
 <a href="https://youtube.com/playlist?list=PLuzT-U16VgbtgfzWUc9lD7uKw3Kfg4udW">Error and Solutions</a></br></br>
--->
+
 
 <h3>What my students say about my course?</h3>
 <a href="https://youtube.com/playlist?list=PLuzT-U16Vgbta9Fi_DuwS-jpyjEXyAk4p">Video Review</a> &nbsp;| &nbsp;
